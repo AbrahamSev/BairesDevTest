@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BairesTest</string>
+
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="show_toast">Show toast</string>
+    <string name="toast_message">This is a toast message</string>
+    <string name="github_list">Kotlin languages</string>
+    <string name="web_view">Browser</string>
+</resources>

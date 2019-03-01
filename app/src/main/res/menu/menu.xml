@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navitem_webview"
+        android:title="@string/web_view"
+        android:icon="@drawable/web"/>
+
+    <item android:id="@+id/navitem_toast"
+          android:title="@string/show_toast"
+          android:icon="@drawable/bell"/>
+
+    <item android:id="@+id/navitem_github"
+          android:title="@string/github_list"
+          android:icon="@drawable/list"/>
+
+
+</menu>
